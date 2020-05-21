@@ -1,0 +1,9 @@
+interval = 1800
+splay = 1800
+splay_first_run = 0
+log_level = 'warn'
+
+[automate]
+enable = false
+server_url = "https://example.a2server.com"
+token = "example_token"

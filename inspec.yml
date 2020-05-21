@@ -1,0 +1,9 @@
+name: effortless-linux-baseline
+title: Linux Baseline profile Test
+version: 2.4.4
+supports:
+  - os-family: linux
+
+depends:
+  - name: linux-baseline
+    url: https://github.com/dev-sec/linux-baseline/archive/master.tar.gz
